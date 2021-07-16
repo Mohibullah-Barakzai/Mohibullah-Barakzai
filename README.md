@@ -26,7 +26,7 @@
  ---
  
 <center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohibullah Barakzai&show_icons=true&locale=en" alt="Mohibullah Barakzai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohibullahBarakzai&show_icons=true&locale=en" alt="MohibullahBarakzai" /></p>
 
 </center>
 
