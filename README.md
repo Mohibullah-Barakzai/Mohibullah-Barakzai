@@ -25,9 +25,11 @@
 
  ---
  
-<center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohibullahBarakzai&show_icons=true&locale=en" alt="MohibullahBarakzai" /></p>
+### 📈 GitHub Statistics
 
-</center>
+[![Mohibullah Barakzai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohibullah Barakzai&show_icons=true&hide=contribs&count_private=true)][github]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohibullah Barakzai&layout=compact)][github]
+
 
  ---
