@@ -13,6 +13,16 @@
 
 ### 🎓 Certification Badges
 
+
+- CEH (Certified Ethical Hacker)
+- Cyber Security Hacker Exposed
+- Comptia Security+
+- CCNA 
+- C++
+- Javascript
+- Complete Linux
+
+
 ---
  
 
