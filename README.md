@@ -19,8 +19,8 @@
 - Comptia Security+
 - CCNA 
 - C++
-- Javascript
 - Complete Linux
+- Javascript
 
 
 ---
