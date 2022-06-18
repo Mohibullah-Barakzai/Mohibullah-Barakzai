@@ -11,7 +11,7 @@
 ### 🎓 Certification Badges
 
 
-- Bachelor of Cyber security student in EC Council University  
+- Bachelor student of Cyber security in EC Council University 
 - CEH (Certified Ethical Hacker)
 - Cyber Security Hacker Exposed
 - Comptia Security+
