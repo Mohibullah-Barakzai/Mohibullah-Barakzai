@@ -1,6 +1,6 @@
 - 👨🏻‍💻 About Me
 
-- 💀 I am Penetration Tester (also known as a Ethical Hacker)
+- 💀 I am .....
 
 - 💻 I'm currently looking for a job as a Penetration Tester, IT support, IT Administrator
 
