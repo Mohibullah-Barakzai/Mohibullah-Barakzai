@@ -1,6 +1,7 @@
 - 👨🏻‍💻 About Me
 
-- 💀 I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. also known as an Ethical Hacker.
+- 💀 I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure-
+     the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. also known as an Ethical Hacker.
 
 - 💻 I'm currently looking for a job as a Cybersecurity Analyst or Hacker.
 
