@@ -1,8 +1,8 @@
 - 👨🏻‍💻 About Me
 
-- 💀 I am .....
+- 💀 I am known as an Ethical Hacker.....
 
-- 💻 I'm currently looking for a job as a Penetration Tester, IT support, IT Administrator
+- 💻 I'm currently looking for a job as a Hacker or Cybersecurity Analyst.
 
 - 💡 I'm on track for learning more about Cyber Security, Internet Technologies and Software Development.
 
@@ -11,7 +11,8 @@
 ### 🎓 Certification Badges
 
 
-- Bachelor student of Cyber security in EC Council University 
+- Bachelor student of Cyber security in EC Council University
+- Google Cybersecurity Professional Certificate
 - CEH (Certified Ethical Hacker)
 - Cyber Security Hacker Exposed
 - Comptia Security+
