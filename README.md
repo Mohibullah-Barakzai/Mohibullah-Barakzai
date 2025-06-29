@@ -1,14 +1,25 @@
 - 👨🏻‍💻 About Me
 
-- 💀 I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats,
-       and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets,
-       to help safeguard organizations and people alike. also known as an Ethical Hacker.
-
-- 💻 I'm currently looking for a job as a Cybersecurity Analyst or Hacker.
-
-- 💡 I'm on track for learning more about Cyber Security, Internet Technologies and Software Development.
+- 💀 I am a dedicated IT Support professional with hands-on experience in troubleshooting, system maintenance, and end-user support across diverse technical environments. Over the years, I have developed a strong foundation in networking, hardware/software configuration, and security best practices, experiences that have fostered a growing passion for cybersecurity.
 
 
+- 💻 Currently, I am expanding my expertise through self-paced learning, certifications, and practical applications to transition into a cybersecurity-focused role. My objective is to leverage my IT support background to safeguard systems, data, and users from emerging cyber threats.
+  
+- 🔐 What I Offer:
+
+Strong problem-solving abilities and meticulous attention to detail
+
+Experience with incident response and foundational security protocols
+
+A proactive approach and a continuous drive to learn
+
+Familiarity with tools such as Wireshark, Linux, and security principles
+
+Actively pursuing certifications such as CompTIA Security+, CEH, and Penetration Testing
+
+I am actively seeking opportunities to enter the cybersecurity field, where I can apply my technical expertise and grow within a security-driven environment. I am committed to making cybersecurity a lifelong career, continuously evolving with the field and contributing to the protection and resilience of digital infrastructure.
+
+I welcome connections with industry professionals and organizations dedicated to advancing cyber resilience and fostering the next generation of cybersecurity talent.
 
 ### 🎓 Certification Badges
 
