@@ -1,9 +1,11 @@
 # 👨‍💻 Mohibullah Barakzai  
-**Penetration Tester (in focus) | SOC Analyst (in transition) | Security Researcher**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://YOUR-PORTFOLIO.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR-EMAIL@example.com)
+🔐 **Penetration Tester & Security Researcher**  
+Practical experience in **exploit development, reverse engineering, vulnerability research, and adversary emulation** — with a growing focus on uncovering complex attack paths and building resilient defenses in enterprise environments.  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohibullah-barakzai)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&logoColor=white)](https://mohibullah-barakzai.github.io)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:Mohibullah.barak3@gmail.com)  
 
 ---
 
@@ -21,34 +23,37 @@
 ![CEH](https://img.shields.io/badge/CEH-v12-orange)  
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-lightgrey)  
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-red)  
-![Packet Tracer](https://img.shields.io/badge/Cisco-Intro%20to%20Packet%20Tracer-yellow)  
-![Linux](https://img.shields.io/badge/Linux-Training-green)  
-![Cybersecurity Hacker Exposed](https://img.shields.io/badge/Cybersecurity-Hacker%20Exposed-purple)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Training-blue?logo=kalilinux&logoColor=white)
 
 ---
-
 ## 🛠️ Tech Stack
 **Languages & Scripting**  
-`Python` `Bash` `PowerShell` `C` `C++` `JavaScript` `SQL`
+`C++` `Python` `JavaScript` `Bash` `PowerShell` `SQL`
 
-**Security Tools**  
-`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Radamsa` `YARA` `Sigma`
+**Operating Systems**  
+`Windows` `Linux (Kali, ParrotOS, Ubuntu)` `macOS`
 
-**Platforms**  
-`Linux` `macOS` `Windows` `Virtualization`
+**Offensive Tools**  
+`Burp Suite` `Nmap` `Wireshark` `Metasploit` `BloodHound` `CrackMapExec` `Responder` `Mimikatz`
+
+**Defensive & SOC Tools**  
+`Velociraptor` `Wazuh` `Elastic Stack`
+
+**Competencies**  
+`Reverse Engineering` `Malware Analysis` `Threat Intelligence` `Red/Blue Teaming`
 
 ---
 
 ## 📂 Featured Projects
-🔹 **[ShadowOps Lab](https://github.com/Mohibullah-Barakzai/ShadowOps-Lab)**  
-_Reproducible penetration testing & SOC training framework — Phase 1 complete, Phase 2 in progress._
 
-🔹 **Forensic Toolkit**  
-_Modular scripts for cross‑platform incident response and artifact analysis._
+🔹 **[ShadowOps‑Lab v2.0.0](https://github.com/Mohibullah-Barakzai/ShadowOps-Lab)** ✅  
+_A reproducible red+blue security framework engineered with audit‑grade rigor, demonstrating adversarial simulation and SOC defense with reproducibility standards._  
 
-🔹 **Automation Harnesses**  
-_Audit‑grade automation for reproducible bug bounty submissions._
+🔹 **Apple Security Bounty** ✅  
+_Reported and validated a critical macOS ImageIO framework vulnerability as part of Apple’s Security Bounty program, providing reproducible proof‑of‑concept and responsible disclosure._  
 
+🔹 **Active Directory Attack & Defense Lab** 🚧  
+_Currently under development — a custom AD lab simulating enterprise environments, covering enumeration, credential abuse, privilege escalation, and Sigma‑style detection strategies._  
 ---
 
 ## 📊 GitHub Stats
@@ -61,9 +66,10 @@ _Audit‑grade automation for reproducible bug bounty submissions._
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Active-brightgreen)](https://www.hackthebox.com/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-red)](https://tryhackme.com/)  
 [![HackerOne](https://img.shields.io/badge/HackerOne-Researcher-black)](https://hackerone.com/)  
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Bug%20Bounty-orange)](https://www.bugcrowd.com/)  
 [![PentesterLab](https://img.shields.io/badge/PentesterLab-Training-blueviolet)](https://pentesterlab.com/)  
-[![Crowdsource](https://img.shields.io/badge/Crowdsource-Bug%20Bounty-orange)](https://www.bugcrowd.com/)  
+[![CTFTime](https://img.shields.io/badge/CTFTime-Competition-blue)](https://ctftime.org/)  
 [![EC-Council CTF](https://img.shields.io/badge/EC--Council-CTF%20Challenges-darkred)](https://iclass.eccouncil.org/)
 
 ---
-⭐️ *“Attack like a pentester, defend like a SOC analyst — always reproducible, always reviewer‑ready.”*
+⭐️ “Breaking systems like an adversary, defending them like a SOC analyst — with reproducible, audit‑grade workflows.”
