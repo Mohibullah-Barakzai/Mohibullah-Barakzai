@@ -10,12 +10,11 @@ Practical experience in **exploit development, reverse engineering, vulnerabilit
 ---
 
 ## 🚀 About Me
-- 🔎 **IT Support & Security Professional** with 2+ years of IT/security experience and 8+ years of additional professional background  
-- 🛡️ Transitioning into **penetration testing & SOC analysis**, with a focus on reproducible, audit‑grade workflows  
-- ⚡ Builder of **[ShadowOps Lab](https://github.com/Mohibullah-Barakzai/ShadowOps-Lab)** — a next‑gen penetration testing & SOC training framework  
-- 🎯 Skilled in **forensic investigation, automation, and incident response**  
-- 🌍 Actively expanding into **bug bounty research** and **security automation**
-
+- 🔎 **Penetration Tester & Security Researcher** with practical experience in exploit development, reverse engineering, vulnerability research, and adversary emulation  
+- 🛡️ Strong foundation in **networking, Linux, and cybersecurity**, with a growing focus on uncovering complex attack paths and building resilient defenses in enterprise environments  
+- ⚡ Skilled in **C++, Python, and JavaScript** for exploit prototypes, automation, and web security testing  
+- 🎯 Currently pursuing the **Offensive Security track** including **OSCP, OSWE, and OSED**  
+- 🌍 Passionate about **red teaming, exploit development, and adversary emulation** aligned to real‑world threat models  
 ---
 
 ## 🏆 Certifications
@@ -44,8 +43,7 @@ Practical experience in **exploit development, reverse engineering, vulnerabilit
 
 ---
 
-## 📂 Featured Projects
-
+### 📂 Featured Projects
 🔹 **[ShadowOps‑Lab v2.0.0](https://github.com/Mohibullah-Barakzai/ShadowOps-Lab)** ✅  
 _A reproducible red+blue security framework engineered with audit‑grade rigor, demonstrating adversarial simulation and SOC defense with reproducibility standards._  
 
