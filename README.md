@@ -56,13 +56,6 @@ _Discovered and responsibly disclosed a critical macOS ImageIO framework vulnera
 _Currently under development — a custom AD lab simulating enterprise environments, covering enumeration, credential abuse, privilege escalation, and Sigma‑style detection strategies._  
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohibullah-Barakzai&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohibullah-Barakzai&theme=radical)
-
----
-
 ## 🌐 Platforms & Labs
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Active-brightgreen)](https://www.hackthebox.com/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-red)](https://tryhackme.com/)  
@@ -72,6 +65,10 @@ _Currently under development — a custom AD lab simulating enterprise environme
 [![CTFTime](https://img.shields.io/badge/CTFTime-Competition-blue)](https://ctftime.org/)  
 [![EC-Council CTF](https://img.shields.io/badge/EC--Council-CTF%20Challenges-darkred)](https://iclass.eccouncil.org/)  
 
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohibullah-Barakzai&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohibullah-Barakzai&theme=radical)
 ---
 
 ⭐️ *“Breaking systems like an adversary, defending them like a SOC analyst — with reproducible, audit‑grade workflows.”*
